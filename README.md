@@ -1,4 +1,4 @@
-# Intro to HTML and CSS
+# Intro to HTML and CSS.
 
 ## Task 1: create a profile in HTML
 
